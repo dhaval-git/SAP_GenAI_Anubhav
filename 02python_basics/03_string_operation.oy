@@ -1,0 +1,14 @@
+#Create multiline string we use triple quotes Ex. """ string """
+story = """
+The Thirsty Crow
+
+On a hot summer day, a thirsty crow flew in search of water.
+After a long time, it found a pot with a little water at the bottom.
+The crow could not reach the water with its beak.
+So, it cleverly dropped pebbles into the pot one by one.
+As the pebbles raised the water level, the crow drank the water and quenched its thirst.
+Moral: Necessity is the mother of invention.
+"""
+
+if __name__ == '__main__':
+	print(story)
