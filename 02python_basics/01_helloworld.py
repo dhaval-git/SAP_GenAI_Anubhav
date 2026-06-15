@@ -1,0 +1,1 @@
+print("Hello, World!. Welcome to Python basics. This is a simple program.")
